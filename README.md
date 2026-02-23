@@ -767,7 +767,7 @@ https://docs.microsoft.com/ru-ru/sysinternals/
 - count - 1 -- деактивирован
 - ![[Pasted image 20260223231249.png]]
 
-## 89. Примитивы синхронизации Linux. Spinlock и qspinlock.
+## 89. Примитивы синхронизации Linux. Spinlock и qspinlock. %% TODO Епта, ну тут точно надо лекцию смотреть, на слайдах просто сигнатуры всех примитивов %% 
 ## 90. Примитивы синхронизации Linux. Semaphore и Mutex.
 ## 91. Примитивы синхронизации Linux. rw_semaphore, seqlock.
 ## 92. Типы процессов и потоков Windows.
