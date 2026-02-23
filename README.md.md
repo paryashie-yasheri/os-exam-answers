@@ -461,6 +461,9 @@ https://www.brendangregg.com/FlameGraphs/cpuflamegraphs.html
 ![[Zen 2026-02-23 18.42.43 3.png]]
 ![[Zen 2026-02-23 18.42.43 4.png]]
 ## 77. Windows: утилиты SysInternals
+https://docs.microsoft.com/ru-ru/sysinternals/
+![[Zen 2026-02-23 18.43.22.png]]
+![[Pasted image 20260223184335.png]]
 ## 78. Windows: отладчики WinDbg и KD
 ## 79. Аппаратная поддержка взаимных исключений.
 ## 80. Эволюция похода к блокировке (Столлингс, гл. 5.1)
