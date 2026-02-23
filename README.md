@@ -805,6 +805,9 @@ https://docs.microsoft.com/ru-ru/sysinternals/
 - #### Async Procedure Call (APC)
 - #### Deffered Procedure Call (DPC)
 ## 93. Структура процесса и потока в Windows. Поля структур.
+![[Pasted image 20260223232230.png]]
+![[Pasted image 20260223232249.png]]
+![[Pasted image 20260223232314.png]]
 ## 94. Диаграммы состояний процесса и потока Windows
 ## 95. Создание и завершение процесса Windows.
 ## 96. Примитивы синхронизации Windows. Понятие Dispatcher Object. Ожидание наступление события, вызовы Wait.
