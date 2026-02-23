@@ -743,6 +743,9 @@ https://docs.microsoft.com/ru-ru/sysinternals/
 ## 86. Создание процесса Linux на уровне пользовательского процесса.
 ![[Pasted image 20260223230625.png]]
 ## 87. Создание и завершение процесса Linux на уровне ядра. Вызываемые функции.
+![[Pasted image 20260223230646.png]]
+![[Pasted image 20260223230654.png]]
+![[Pasted image 20260223230702.png]]
 ## 88. Особенности реализации потоков в Linux. KThread. Tasklet.
 ## 89. Примитивы синхронизации Linux. Spinlock и qspinlock.
 ## 90. Примитивы синхронизации Linux. Semaphore и Mutex.
