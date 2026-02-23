@@ -453,6 +453,8 @@ https://www.brendangregg.com/FlameGraphs/cpuflamegraphs.html
 ![[Zen 2026-02-23 18.41.07.png]]
 
 ## 75. Linux: Отладчик ядра.
+![[Pasted image 20260223184137.png]]
+![[Pasted image 20260223184143.png]]
 ## 76. Windows: стандартные отладочные средства.
 ## 77. Windows: утилиты SysInternals
 ## 78. Windows: отладчики WinDbg и KD
