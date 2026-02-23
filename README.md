@@ -771,6 +771,39 @@ https://docs.microsoft.com/ru-ru/sysinternals/
 ## 90. Примитивы синхронизации Linux. Semaphore и Mutex.
 ## 91. Примитивы синхронизации Linux. rw_semaphore, seqlock.
 ## 92. Типы процессов и потоков Windows.
+### Типы процессов
+- #### "Современные процессы"
+	- Universal Windows Platform (UWP) processes
+		- a.k.a. Immersive processes
+		- Появились в Windows 8
+	- Protected Processes Light
+		- Windows Media Certificate
+- #### Minimal processes
+	- Нет пользовательского адресного пространства
+- #### Pico-процессы
+	- Ограничивают доступ к системным функциям
+	- Представляют собой набор callback
+- #### Trustlets -- Isolated User Mode (UIM) Processes
+	- Используют виртуализацию VTL1 (Vitrual Trust Level 1)
+- #### Windows on Windows (WoW)
+	- 32 бита в 64-битном режиме
+- #### JOBS
+	- Средство группировки процессов
+- #### Dos, Win16, bat-файлы
+
+### Типы потоков
+- #### Обычные потоки
+	- 1:1 User-Kernel
+	- В том числе базовая реализация posix threads
+- #### Fiber
+	- Чисто пользовательская реализация потоков
+	- Невидимы ядру
+- #### User-mode scheduling threads
+	- Существуют только в 64 битной версии
+	- Есть контекст потока в ядре, so можно получить управление при блокирующем вызове потока
+	- Можно использовать несколько процессоров
+- #### Async Procedure Call (APC)
+- #### Deffered Procedure Call (DPC)
 ## 93. Структура процесса и потока в Windows. Поля структур.
 ## 94. Диаграммы состояний процесса и потока Windows
 ## 95. Создание и завершение процесса Windows.
