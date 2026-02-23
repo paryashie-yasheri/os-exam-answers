@@ -443,6 +443,9 @@ https://makelinux.github.io/kernel/map/
 ## 72. Linux: трассировщики системных вызовов и библиотек.
 ![[Pasted image 20260223184014.png]]
 ## 73. Linux: Профилировщик perf и FlameGraph.
+![[Pasted image 20260223184021.png]]
+https://www.brendangregg.com/FlameGraphs/cpuflamegraphs.html
+![[Pasted image 20260223184029.png]]
 ## 74. Linux: SystemTap.
 ## 75. Linux: Отладчик ядра.
 ## 76. Windows: стандартные отладочные средства.
