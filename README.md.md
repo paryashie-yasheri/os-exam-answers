@@ -456,6 +456,10 @@ https://www.brendangregg.com/FlameGraphs/cpuflamegraphs.html
 ![[Pasted image 20260223184137.png]]
 ![[Pasted image 20260223184143.png]]
 ## 76. Windows: стандартные отладочные средства.
+![[Zen 2026-02-23 18.42.43 1.png]]
+![[Zen 2026-02-23 18.42.43 2.png]]
+![[Zen 2026-02-23 18.42.43 3.png]]
+![[Zen 2026-02-23 18.42.43 4.png]]
 ## 77. Windows: утилиты SysInternals
 ## 78. Windows: отладчики WinDbg и KD
 ## 79. Аппаратная поддержка взаимных исключений.
