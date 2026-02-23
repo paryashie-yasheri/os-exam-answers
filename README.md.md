@@ -447,6 +447,11 @@ https://makelinux.github.io/kernel/map/
 https://www.brendangregg.com/FlameGraphs/cpuflamegraphs.html
 ![[Pasted image 20260223184029.png]]
 ## 74. Linux: SystemTap.
+![[Pasted image 20260223184046.png]]
+![[Pasted image 20260223184055.png]]
+![[Zen 2026-02-23 18.41.04.png]]
+![[Zen 2026-02-23 18.41.07.png]]
+
 ## 75. Linux: Отладчик ядра.
 ## 76. Windows: стандартные отладочные средства.
 ## 77. Windows: утилиты SysInternals
